@@ -1,0 +1,45 @@
+/* .canvas{
+    background-color: #fff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: #212121;
+    font-family: cursive;
+} */
+.style{
+    text-align: center;
+    justify-content: space-evenly;
+}
+ .button{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border: 2px sol black;
+    display: inline-block;
+    justify-content: space-evenly;
+}
+#grey{
+    background-color: gray;
+    border: 2px solid black;
+    margin: 10px;
+
+}
+
+#white{
+    background-color: white;
+    border: 2px solid black;
+    margin: 10px;
+
+}
+#blue{
+    border: 2px solid black;
+    margin: 10px;
+
+}
+#red{
+    
+        background-color: red;
+        border: 2px solid rgb(10, 10, 10);
+        margin: 10px;
+
+    
+}
