@@ -50,7 +50,7 @@ function checkGuess(guess){
       displayMessage('Congrats You guessed right')
       endGame()
    } else if(guess < randomNumber){
-    displayMessage(`Number is TOOO low`)
+    displayMessage(`Number is TOO low`)
    } else if(guess > randomNumber){
     displayMessage(`Number is Too High`)
    }
